@@ -7,6 +7,6 @@ and finally the magic button of UNDO.
 
 #Steps to run:
 this was written using notepad++ only so you're gonna compile it and run the old fashioned way:'D
-make sure you go to the directory contains the .java file and open a CMD terminal then type "### javac PaintBrush.java "
+make sure you go to the directory contains the .java file and open a CMD terminal then type "** javac PaintBrush.java "
 if it compiles successfuly without throwing any errors "no news is good news" that means your byte code is ready and you can run you class.
-then "### appletviewer PaintBrush.html " then you'll get a Paint window with the specs in the .html file and enjoy drawing some funny chapes.
+then "** appletviewer PaintBrush.html " then you'll get a Paint window with the specs in the .html file and enjoy drawing some funny chapes.
